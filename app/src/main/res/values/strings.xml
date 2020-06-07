@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeightApp</string>
+    <string name="title">What\'s Your Weight On ...?</string>
+    <string name="enter_weight">Enter Your Weight</string>
+    <string name="btn_show_weight">Show Weight</string>
+    <string name="txt_show_weight">Your Weight</string>
+    <string name="chk_Earth">Earth</string>
+    <string name="chk_mass">Mass</string>
+    <string name="chk_jupiter">Jupiter</string>
+</resources>
